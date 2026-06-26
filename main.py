@@ -120,7 +120,7 @@ async def query_llm(request: LLMQueryRequest):
                     "content": request.query,
                 }
             ],
-            model="llama3-8b-8192", 
+            model="llama-3.3-70b-versatile", 
         )
         
         # Extract and return the response text
