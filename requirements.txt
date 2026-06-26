@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain-text-splitters
+python-multipart
+groq
+pydantic
